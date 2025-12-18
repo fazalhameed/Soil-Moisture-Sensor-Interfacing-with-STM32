@@ -43,7 +43,6 @@
 ADC_HandleTypeDef hadc1;
 
 /* USER CODE BEGIN PV */
-
 uint16_t readValue;
 
 /* USER CODE END PV */
@@ -70,7 +69,6 @@ int main(void)
   /* USER CODE BEGIN 1 */
 
   /* USER CODE END 1 */
-
   /* MCU Configuration--------------------------------------------------------*/
 
   /* Reset of all peripherals, Initializes the Flash interface and the Systick. */
